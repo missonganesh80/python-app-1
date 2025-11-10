@@ -2,4 +2,4 @@ replicaCount: 1
 image:
   repository: gkadam/python-app-1
   pullPolicy: IfNotPresent
-  tag: python-app-1-dev-latest
+  tag: 68883e
